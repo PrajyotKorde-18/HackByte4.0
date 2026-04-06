@@ -1,4 +1,4 @@
-# PromptBridge Premium
+# PromptBridge
 
 PromptBridge is an intelligent LLM orchestration interface designed for precision understanding and optimization.
 
