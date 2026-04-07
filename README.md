@@ -27,4 +27,4 @@ cd frontend
 npm run dev
 ```
 
-© 2026 PromptBridge - Built by Antigravity
+
