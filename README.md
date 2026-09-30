@@ -78,7 +78,7 @@ npm run dev
 Built at HackByte 4.0 by a team of four.
 
 - **Prajyot Korde**: architecture and database design ([GitHub](https://github.com/PrajyotKorde-18))
-- Teammates: add their names and GitHub links here
+- Teammates: Naman Chhallani,Yash Dhayal,Durgesh Mundada
 
 ## Author
 
